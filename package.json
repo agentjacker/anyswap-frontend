@@ -6,7 +6,7 @@
   "private": true,
   "dependencies": {
     "@0x/subproviders": "^6.1.1",
-    "@babel/core": "7.7.4",
+    "@babel/core": "7.22.6",
     "@makerdao/multicall": "^0.11.0",
     "@reach/dialog": "^0.2.8",
     "@reach/tooltip": "^0.2.0",
@@ -30,7 +30,7 @@
     "babel-jest": "^24.9.0",
     "babel-loader": "8.0.6",
     "babel-plugin-named-asset-import": "^0.3.5",
-    "babel-preset-react-app": "^9.1.0",
+    "babel-preset-react-app": "^10.0.1",
     "bitcoin-ops": "^1.4.1",
     "bitcoinjs-lib": "5.2.0",
     "camelcase": "^5.3.1",
