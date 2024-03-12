@@ -59,7 +59,7 @@
     "i18next-xhr-backend": "^2.0.1",
     "identity-obj-proxy": "3.0.0",
     "jazzicon": "^1.5.0",
-    "jest": "24.9.0",
+    "jest": "28.0.0",
     "jest-environment-jsdom-fourteen": "0.1.0",
     "jest-resolve": "24.9.0",
     "jest-watch-typeahead": "0.4.2",
