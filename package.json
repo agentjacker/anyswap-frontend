@@ -5,7 +5,7 @@
   "homepage": "/",
   "private": true,
   "dependencies": {
-    "@0x/subproviders": "^6.1.1",
+    "@0x/subproviders": "^7.0.0",
     "@babel/core": "7.7.4",
     "@makerdao/multicall": "^0.11.0",
     "@reach/dialog": "^0.2.8",
@@ -96,7 +96,7 @@
     "uglifyjs-webpack-plugin": "^2.2.0",
     "url-loader": "2.3.0",
     "webpack": "4.41.2",
-    "webpack-dev-server": "3.9.0",
+    "webpack-dev-server": "4.0.0",
     "webpack-manifest-plugin": "2.2.0",
     "workbox-webpack-plugin": "4.3.1"
   },
